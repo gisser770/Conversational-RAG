@@ -1,4 +1,4 @@
-# Memorized Agent for Real Estate Queries
+# Conversational RAG for Real Estate Queries
 
 ## Overview
 This repository contains a Jupyter notebook implementation of a specialized conversational agent for handling real estate queries in Israel. The agent uses LangChain with Google's Gemini Pro model to provide contextual responses while maintaining user-specific memory management.
